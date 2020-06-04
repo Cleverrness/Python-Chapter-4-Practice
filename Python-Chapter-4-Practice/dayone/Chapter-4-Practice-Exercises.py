@@ -36,4 +36,4 @@ print(f"Today's date is {date}!")
 # Exercise 5
 # Take one of these sets of code and visualize them with pythontutor.com\
 
-# Testing line here to validate git branch second creates a secondary branch, this line should appear in the master branch on git
+# Testing line here to validate git branch second creates a secondary branch, this line should appear in ONLY the secondary branch
